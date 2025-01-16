@@ -1,4 +1,5 @@
 # Logs
+nodemon.json
 lib-cov
 *.log
 *.csv
